@@ -1,4 +1,4 @@
-# Parallel Algorithms Project
+# Parallel Algorithms
 ## Parallel Cholesky Factorization of a SPD Matrix with MPI
 
 In this paper we present parallel Cholesky factorization. This method is widely used for numerical solutions inter alia of linear equations. Realization of decomposition will be done with a use of the Message Passing Interface (MPI).
